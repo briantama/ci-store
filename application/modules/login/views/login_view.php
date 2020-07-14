@@ -85,7 +85,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
       
       <!-- footer -->
       <div class="copyright">
-        <p>Copyright &copy; Apps Bryn 2018 - <?php echo date('Y'); ?> Template By Colored</p>
+        <p>Copyright &copy; Apps Bryn 2016 - <?php echo date('Y'); ?> Template By Colored</p>
       </div>
       <!-- //footer -->
       
